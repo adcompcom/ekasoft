@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EKA</string>
+    <string name="checkBox_depor">Deporte</string>
+    <string name="checkBox_Juegos">Juegos</string>
+    <string name="checkbox_deportes">Deportes</string>
+    <string name="checkbox_videojuegos">VideoJuegos</string>
+    <string name="txt_numeroRuc" />
+    <string name="txt_razonSocial" />
+    <string name="txt_usuarioSol" />
+    <string name="edittex_rznSocial" />
+</resources>

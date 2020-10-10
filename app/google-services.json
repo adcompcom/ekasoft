@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "323759299837",
+    "firebase_url": "https://ekaapp-87832.firebaseio.com",
+    "project_id": "ekaapp-87832",
+    "storage_bucket": "ekaapp-87832.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323759299837:android:7bb087541fdf9f0149b294",
+        "android_client_info": {
+          "package_name": "com.peru.soft.eka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323759299837-veno2lbof7pauh8k5gen8rdfr8hqm07i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peru.soft.eka",
+            "certificate_hash": "99f5e4eec47d7533a53fab8af405a6f98025c9bc"
+          }
+        },
+        {
+          "client_id": "323759299837-ur9rp67fqmm3eboh7u2ffgr1j1ovtuet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp4zynK6ecVfYIUvVntTnqDFAcN5mcU-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323759299837-ur9rp67fqmm3eboh7u2ffgr1j1ovtuet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
